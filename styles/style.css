@@ -27,6 +27,8 @@ nav {
     font-size: 2rem;
     word-spacing: 1em;
     background-color: white;
+    position: fixed;
+    width: 100%;
 }
  
 li { 
